@@ -1,10 +1,10 @@
-package zadanieutrwalajacejdbc;
+package jdbcplate;
 
 import java.util.List;
 import java.util.Scanner;
 import java.util.UUID;
 
-import static zadanieutrwalajacejdbc.Parser.scannerParserStringToInt;
+import static jdbcplate.Parser.scannerParserStringToInt;
 
 public class Main {
     public static final Scanner scanner = new Scanner(System.in);

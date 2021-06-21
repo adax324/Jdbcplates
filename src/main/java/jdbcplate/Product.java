@@ -1,4 +1,4 @@
-package zadanieutrwalajacejdbc;
+package jdbcplate;
 
 import lombok.Getter;
 

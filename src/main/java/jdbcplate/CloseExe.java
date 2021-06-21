@@ -1,4 +1,4 @@
-package zadanieutrwalajacejdbc;
+package jdbcplate;
 
 public class CloseExe {
 

@@ -1,4 +1,4 @@
-package zadanieutrwalajacejdbc;
+package jdbcplate;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;

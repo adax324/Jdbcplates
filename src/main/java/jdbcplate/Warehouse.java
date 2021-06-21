@@ -1,4 +1,4 @@
-package zadanieutrwalajacejdbc;
+package jdbcplate;
 
 public class Warehouse {
     private final int id;
